@@ -63,3 +63,5 @@ git push origin main- enviar todos os commits local para nuvem
 gita add* - adicionar tudo
 
 ls- listar as pastas
+
+ 

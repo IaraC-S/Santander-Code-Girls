@@ -1,0 +1,37 @@
+# Java 
+
+Linguagem de programação orientada a objetos pela Sun Microsystems e adquirida pelo Oracle em 2008,
+
+
+
+- linguagem de interpretação 
+
+- Quando escrito é salvo em arquivo  .java utilizando JDK para compilar
+
+- Depois de compilado é salvo em arquivo . class para um bytecode que é interpretado por uma JVM
+
+- Depois a JVM vai interpretar o programa.class para linguagem de máquina
+
+- A linguagem é compilada em tempo de desenvolvimento
+
+  compilada->Interpretada (pela JVM) ->Executada
+
+- Vantagem da plataforma rodam em qualquer sistema operacional, através de uma máquina virtual emulada
+
+- Java Se -Base da plataforma trás com ela com ela algumas classes comuns entre as plataformas
+
+- Java EE- Cuida do desenvolvimento web
+
+- Jave ME- Desenvolvimento de dispositivos moveis e embarcados
+
+- JRE- Ambiente de execução que fornece bibliotecas padrões do JAVA para o JDK compilar o seu código e para a JVM executar o programa
+
+- IDE- Ambiente de desenvolvimento integrado
+
+- É um softwawe
+
+- Combina ferramentas comuns de desenvolvimento em uma única interface gráfica do usuário GUI 
+
+- JDK- Ambiente voltado para desenvolvedores
+
+- JDK faz parte das IDES- Intellij  (opensource e ultimate), Eclipse (opensource), Netbeans...etc.
