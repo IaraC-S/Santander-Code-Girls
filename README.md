@@ -1,2 +1,3 @@
 # Santander-Code-Girls
-Atividades
+
+Materiais de estudos
